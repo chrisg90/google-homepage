@@ -1,2 +1,2 @@
 # google-homepage
-Duplicate Google Homepage (Odin Project)
+Duplicate Google Homepage (The Odin Project)
